@@ -33,7 +33,10 @@
 - Age: Unknown
 - Favorite Food: kimchi mandu
 ---
-
+- [Jayde225] (https://github.com/jayde225)
+- Age: 17
+- Favorite Food: Ham and Cheese Pizza
+---
 - [IceeMC](https://github.com/IceeMC)
 - Age: 14
 - Favorite Food: Cake
